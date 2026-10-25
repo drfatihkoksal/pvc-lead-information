@@ -1,0 +1,14 @@
+{
+  "title": "pvc-lead-information: analysis code for the reconstructive information content of ECG leads and electrodes in premature ventricular contractions",
+  "upload_type": "software",
+  "description": "Analysis code for: Köksal F. Reconstructive information content of ECG leads and electrodes in premature ventricular contractions: an exhaustive, dual-population study. Journal of Electrocardiology, 2026.",
+  "creators": [
+    {
+      "name": "Köksal, Fatih",
+      "affiliation": "Department of Cardiology, University of Health Sciences, Bursa Yüksek İhtisas Training and Research Hospital, Bursa, Türkiye",
+      "orcid": "0000-0002-4197-4683"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["electrocardiography", "premature ventricular contraction", "lead reduction", "ECG reconstruction"]
+}
